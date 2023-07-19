@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d13c7ca0a8a04c5448b35871da8d9f76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HpText: {instanceID: 0}
+  - ComboText: {instanceID: 0}
+  - sp: {instanceID: 0}
+  - footCollision: {instanceID: 0}
+  - wallJump: {instanceID: 0}
+  - Strg: {instanceID: 0}
+  - SToCtrg: {instanceID: 0}
+  - audio: {instanceID: 0}
+  - Jumping: {instanceID: 0}
+  - Landing: {instanceID: 0}
+  - WallJumping: {instanceID: 0}
+  - JumpUpEfeact: {instanceID: 0}
+  - DubleJumpEfeact: {instanceID: 0}
+  - LandingEfeact: {instanceID: 0}
+  - WallJumpEfeact: {instanceID: 0}
+  - rb2d: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 1880d55a1da2bef47aa4b023a5bdf12c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6426116211611043275
+    second: Player-Sheet Mono 2_0
+  - first:
+      213: 3318924734528751580
+    second: Player-Sheet Mono 2_1
+  - first:
+      213: 7485791814487796837
+    second: Player-Sheet Mono 2_2
+  - first:
+      213: 8248992801048699588
+    second: Player-Sheet Mono 2_3
+  - first:
+      213: -1956050081449806823
+    second: Player-Sheet Mono 2_4
+  - first:
+      213: -2995000477495031012
+    second: Player-Sheet Mono 2_5
+  - first:
+      213: 6771959546974133371
+    second: Player-Sheet Mono 2_6
+  - first:
+      213: -5254547744867679884
+    second: Player-Sheet Mono 2_7
+  - first:
+      213: -5080602676679562687
+    second: Player-Sheet Mono 2_8
+  - first:
+      213: -5727010860784174453
+    second: Player-Sheet Mono 2_9
+  - first:
+      213: 3329191390118810432
+    second: Player-Sheet Mono 2_10
+  - first:
+      213: 7893354485222454798
+    second: Player-Sheet Mono 2_11
+  - first:
+      213: -8312093602267407850
+    second: Player-Sheet Mono 2_12
+  - first:
+      213: -3670517104477535304
+    second: Player-Sheet Mono 2_13
+  - first:
+      213: -1573095030156380628
+    second: Player-Sheet Mono 2_14
+  - first:
+      213: 3377539728361309109
+    second: Player-Sheet Mono 2_15
+  - first:
+      213: 9173836984301980738
+    second: Player-Sheet Mono 2_16
+  - first:
+      213: -6976670060142400851
+    second: Player-Sheet Mono 2_17
+  - first:
+      213: 983375930199080519
+    second: Player-Sheet Mono 2_18
+  - first:
+      213: 1232156652578584831
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: 5342276323490482217
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: -3927464073180719317
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: -6080544011467555459
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: 805587496080469294
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: 1378302183009220196
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: -1101309680033924417
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: 3918666570851000105
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: 3883030381450176449
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: -4124317516042824147
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: 8776323001899302409
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: 4778911139395457215
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: -9205835042478307693
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: 8560207846010219577
+    second: Player-Sheet Mono 2_19
+  - first:
+      213: 6594810596231894370
+    second: Player-Sheet Mono 2_21
+  - first:
+      213: 9128964950511194542
+    second: Player-Sheet Mono 2_34
+  - first:
+      213: 7030288531786681149
+    second: Player-Sheet Mono 2_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a7b814a59d1d6a0800000000000000
+      internalID: -6426116211611043275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd708dd26703f0e20800000000000000
+      internalID: 3318924734528751580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c621d6effd2e760800000000000000
+      internalID: 7485791814487796837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2234d5f3f4a7270800000000000000
+      internalID: 8248992801048699588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147f4480d6bad4e0800000000000000
+      internalID: -1956050081449806823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b88c41fee9f66d0800000000000000
+      internalID: -2995000477495031012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c55be1455dafd50800000000000000
+      internalID: 6771959546974133371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47105d37aa81417b0800000000000000
+      internalID: -5254547744867679884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aad93a8c21e79b0800000000000000
+      internalID: -5080602676679562687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab72217f19580b0800000000000000
+      internalID: -5727010860784174453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04312553ee9a33e20800000000000000
+      internalID: 3329191390118810432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06bbe16514da8d60800000000000000
+      internalID: 7893354485222454798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 0
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61add0978e285ac80800000000000000
+      internalID: -8312093602267407850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30f950424bf0dc0800000000000000
+      internalID: -3670517104477535304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26b899976e3b2ae0800000000000000
+      internalID: -1573095030156380628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_15
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3cebbec7e6fde20800000000000000
+      internalID: 3377539728361309109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_16
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c09a4d124005f70800000000000000
+      internalID: 9173836984301980738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_17
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaeb165b83ed2f90800000000000000
+      internalID: -6976670060142400851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e7f28c237a5ad00800000000000000
+      internalID: 983375930199080519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_20
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92841a9f204932a40800000000000000
+      internalID: 5342276323490482217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_21
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2754f9eb38de79c0800000000000000
+      internalID: -3927464073180719317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_22
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 0
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7df85b00719d9ba0800000000000000
+      internalID: -6080544011467555459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_23
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d6f5b3f850e2b00800000000000000
+      internalID: 805587496080469294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_24
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 0
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f86b6886b02310800000000000000
+      internalID: 1378302183009220196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_25
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf0e55eac57b0f0800000000000000
+      internalID: -1101309680033924417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_26
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 0
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f95c4fb76e16630800000000000000
+      internalID: 3918666570851000105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_27
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7236a0f8b43e530800000000000000
+      internalID: 3883030381450176449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_28
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 0
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26985b121b73c6c0800000000000000
+      internalID: -4124317516042824147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_29
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3c427543cbc970800000000000000
+      internalID: 8776323001899302409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_30
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0d2dc8c5a125240800000000000000
+      internalID: 4778911139395457215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_31
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396cc30bdcd4e3080800000000000000
+      internalID: -9205835042478307693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_32
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c63f89ea7fbc670800000000000000
+      internalID: 8560207846010219577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player-Sheet Mono 2_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b49082ff791110800000000000000
+      internalID: 1232156652578584831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

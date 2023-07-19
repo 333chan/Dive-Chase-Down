@@ -1,0 +1,3177 @@
+fileFormatVersion: 2
+guid: ff9a208c66953044b8582cca06b7db87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8980276358344610389
+    second: mono1_0
+  - first:
+      213: 5188136040779509059
+    second: mono1_1
+  - first:
+      213: -2450515407618725228
+    second: mono1_2
+  - first:
+      213: -6862007659908326272
+    second: mono1_3
+  - first:
+      213: -7706456148484108837
+    second: mono1_4
+  - first:
+      213: -668782129569196138
+    second: mono1_5
+  - first:
+      213: -5355145150768507903
+    second: mono1_6
+  - first:
+      213: 7881207291053754335
+    second: mono1_7
+  - first:
+      213: 8079878949058105273
+    second: mono1_8
+  - first:
+      213: -5985443444567333536
+    second: mono1_9
+  - first:
+      213: -4813009444931308799
+    second: mono1_10
+  - first:
+      213: -6614627635116031383
+    second: mono1_11
+  - first:
+      213: -1515945419113043899
+    second: mono1_12
+  - first:
+      213: -6590857316810936703
+    second: mono1_13
+  - first:
+      213: -913870441221047199
+    second: mono1_14
+  - first:
+      213: -5133341787821349845
+    second: mono1_15
+  - first:
+      213: 7159429408259553055
+    second: mono1_16
+  - first:
+      213: -2713001029095366125
+    second: mono1_17
+  - first:
+      213: -5034201312691179484
+    second: mono1_18
+  - first:
+      213: -7466477932887582688
+    second: mono1_19
+  - first:
+      213: 5873940035346237205
+    second: mono1_20
+  - first:
+      213: 3402609564231589282
+    second: mono1_21
+  - first:
+      213: 7253802653814535888
+    second: mono1_22
+  - first:
+      213: -8639194905038332846
+    second: mono1_23
+  - first:
+      213: 7478993640814397947
+    second: mono1_24
+  - first:
+      213: -3166029348842520652
+    second: mono1_25
+  - first:
+      213: -7469067290903906730
+    second: mono1_26
+  - first:
+      213: -1043222235270194619
+    second: mono1_27
+  - first:
+      213: -2429472651260192110
+    second: mono1_28
+  - first:
+      213: 6613027482379504329
+    second: mono1_29
+  - first:
+      213: 8758616427744232773
+    second: mono1_30
+  - first:
+      213: -4306782562834447262
+    second: mono1_31
+  - first:
+      213: 3597962258238123804
+    second: mono1_32
+  - first:
+      213: -6570697549652923384
+    second: mono1_33
+  - first:
+      213: -7401079327797300571
+    second: mono1_34
+  - first:
+      213: -9161964418682300592
+    second: mono1_35
+  - first:
+      213: 7680140378159703738
+    second: mono1_36
+  - first:
+      213: -6667404931472581407
+    second: mono1_37
+  - first:
+      213: -4598680038305001806
+    second: mono1_38
+  - first:
+      213: -1353457381381777691
+    second: mono1_39
+  - first:
+      213: -7020728764937031344
+    second: mono1_40
+  - first:
+      213: 2126488660753957376
+    second: mono1_41
+  - first:
+      213: -5641612775171311097
+    second: mono1_42
+  - first:
+      213: -5273427890615597527
+    second: mono1_43
+  - first:
+      213: -5501182505323773068
+    second: mono1_44
+  - first:
+      213: 8633919849329756949
+    second: mono1_45
+  - first:
+      213: -5316905629407289551
+    second: mono1_46
+  - first:
+      213: -4071688571655402559
+    second: mono1_47
+  - first:
+      213: 5293450424978669610
+    second: mono1_48
+  - first:
+      213: 7405515511769850363
+    second: mono1_49
+  - first:
+      213: 2414456164083571136
+    second: mono1_50
+  - first:
+      213: 5297279287312875096
+    second: mono1_51
+  - first:
+      213: 2064266802729920501
+    second: mono1_52
+  - first:
+      213: -8685544747119358669
+    second: mono1_53
+  - first:
+      213: -3686344556174145132
+    second: mono1_54
+  - first:
+      213: 4581136173725096948
+    second: mono1_55
+  - first:
+      213: 454143841626741789
+    second: mono1_56
+  - first:
+      213: 3946504815696216824
+    second: mono1_57
+  - first:
+      213: 7733462108802721851
+    second: mono1_58
+  - first:
+      213: -2941285410722337653
+    second: mono1_59
+  - first:
+      213: -521954830949629037
+    second: mono1_60
+  - first:
+      213: 6935452376616609490
+    second: mono1_61
+  - first:
+      213: -7921642416647014848
+    second: mono1_62
+  - first:
+      213: -8403755339591444908
+    second: mono1_63
+  - first:
+      213: -1165016252114457922
+    second: mono1_64
+  - first:
+      213: -3600634560526148488
+    second: mono1_65
+  - first:
+      213: -5146858615192304028
+    second: mono1_66
+  - first:
+      213: -8679063732407032842
+    second: mono1_67
+  - first:
+      213: 1022592378048421107
+    second: mono1_68
+  - first:
+      213: 2398584593007754259
+    second: mono1_69
+  - first:
+      213: 8959138830206799205
+    second: mono1_70
+  - first:
+      213: 7359954752194637961
+    second: mono1_71
+  - first:
+      213: 8844560828738662586
+    second: mono1_72
+  - first:
+      213: 2612040792651266901
+    second: mono1_73
+  - first:
+      213: 8074723141091562991
+    second: mono1_74
+  - first:
+      213: -5485297137152738977
+    second: mono1_75
+  - first:
+      213: -8518730806408611876
+    second: mono1_76
+  - first:
+      213: -1887153509854556898
+    second: mono1_77
+  - first:
+      213: -7580010879942661399
+    second: mono1_78
+  - first:
+      213: 4867256177155670608
+    second: mono1_79
+  - first:
+      213: 5997610297683115883
+    second: mono1_80
+  - first:
+      213: 5789991682312558273
+    second: mono1_81
+  - first:
+      213: 7595578528097964108
+    second: mono1_82
+  - first:
+      213: -1538601674987977850
+    second: mono1_83
+  - first:
+      213: -7095015781185290438
+    second: mono1_84
+  - first:
+      213: -3310044328693339441
+    second: mono1_85
+  - first:
+      213: 2213730723207183622
+    second: mono1_86
+  - first:
+      213: -2340508753465130315
+    second: mono1_87
+  - first:
+      213: -4231354257674475836
+    second: mono1_88
+  - first:
+      213: -4180476893907236149
+    second: mono1_89
+  - first:
+      213: 3758809056312392889
+    second: mono1_90
+  - first:
+      213: 3835197311988323803
+    second: mono1_91
+  - first:
+      213: -1435486877219676211
+    second: mono1_92
+  - first:
+      213: 5872172485702241946
+    second: mono1_93
+  - first:
+      213: -2675887548449936491
+    second: mono1_94
+  - first:
+      213: 5272728429373672021
+    second: mono1_95
+  - first:
+      213: -9063987542658507287
+    second: mono1_96
+  - first:
+      213: 6870480679608813204
+    second: mono1_97
+  - first:
+      213: 423207583229239337
+    second: mono1_98
+  - first:
+      213: -1698486619317196838
+    second: mono1_99
+  - first:
+      213: -7314269281090981666
+    second: mono1_100
+  - first:
+      213: 6713990410613878604
+    second: mono1_101
+  - first:
+      213: 7209018749069599174
+    second: mono1_102
+  - first:
+      213: 406584254268337824
+    second: mono1_103
+  - first:
+      213: -4826329446894498213
+    second: mono1_104
+  - first:
+      213: -204241776076007523
+    second: mono1_105
+  - first:
+      213: -9179129196376277885
+    second: mono1_106
+  - first:
+      213: -8345773535590313433
+    second: mono1_107
+  - first:
+      213: 6030505870815687727
+    second: mono1_108
+  - first:
+      213: 5710655740637866608
+    second: mono1_109
+  - first:
+      213: 430054046141840931
+    second: mono1_110
+  - first:
+      213: 7735065916695319473
+    second: mono1_111
+  - first:
+      213: -8737925067182638441
+    second: mono1_112
+  - first:
+      213: -2215100423128461052
+    second: mono1_113
+  - first:
+      213: 3111462524884159835
+    second: mono1_114
+  - first:
+      213: 8212102545090282001
+    second: mono1_115
+  - first:
+      213: -4880604088185800531
+    second: mono1_116
+  - first:
+      213: -2688867674199357433
+    second: mono1_117
+  - first:
+      213: -8137136228865810098
+    second: mono1_118
+  - first:
+      213: -6874923602868387106
+    second: mono1_119
+  - first:
+      213: 4742992783781795175
+    second: mono1_120
+  - first:
+      213: 16347400028133170
+    second: mono1_121
+  - first:
+      213: 1314825480822080921
+    second: mono1_122
+  - first:
+      213: -2800210171612215122
+    second: mono1_123
+  - first:
+      213: 6354894958230288744
+    second: mono1_124
+  - first:
+      213: 2623172765046378321
+    second: mono1_125
+  - first:
+      213: -6802844080450074740
+    second: mono1_126
+  - first:
+      213: -1122365455272374807
+    second: mono1_127
+  - first:
+      213: -5731589151669225995
+    second: mono1_128
+  - first:
+      213: -2868190805304080437
+    second: mono1_129
+  - first:
+      213: -4449622864326155186
+    second: mono1_130
+  - first:
+      213: -8721481654080755216
+    second: mono1_131
+  - first:
+      213: 687484202440396934
+    second: mono1_132
+  - first:
+      213: 7480325588624969788
+    second: mono1_133
+  - first:
+      213: 4589328867331035017
+    second: mono1_134
+  - first:
+      213: -1177343102675725582
+    second: mono1_135
+  - first:
+      213: -1331974938866720544
+    second: mono1_136
+  - first:
+      213: -427222481779094309
+    second: mono1_137
+  - first:
+      213: 356367425116323057
+    second: mono1_138
+  - first:
+      213: 7084351048878271116
+    second: mono1_139
+  - first:
+      213: 6030878602701565713
+    second: mono1_140
+  - first:
+      213: 1632043043732546904
+    second: mono1_141
+  - first:
+      213: 2738324809394777709
+    second: mono1_142
+  - first:
+      213: 8589224166706392294
+    second: mono1_143
+  - first:
+      213: 1833527707339820048
+    second: mono1_144
+  - first:
+      213: 913707036033789993
+    second: mono1_145
+  - first:
+      213: 5367817995256231336
+    second: mono1_146
+  - first:
+      213: -4839337304994281433
+    second: mono1_147
+  - first:
+      213: -2630901831626185141
+    second: mono1_148
+  - first:
+      213: -1038081897021835164
+    second: mono1_149
+  - first:
+      213: 3129107959944620112
+    second: mono1_150
+  - first:
+      213: -2965694258617035891
+    second: mono1_151
+  - first:
+      213: -3628326651042899956
+    second: mono1_152
+  - first:
+      213: 8132494008335676700
+    second: mono1_153
+  - first:
+      213: -9098294642402978490
+    second: mono1_154
+  - first:
+      213: -4700471351753322645
+    second: mono1_155
+  - first:
+      213: 5891321751219451821
+    second: mono1_156
+  - first:
+      213: -7855018966496943685
+    second: mono1_157
+  - first:
+      213: 6564887584751321082
+    second: mono1_158
+  - first:
+      213: 3289049409552915390
+    second: mono1_159
+  - first:
+      213: -3753643840991985300
+    second: mono1_160
+  - first:
+      213: 1543172765596363312
+    second: mono1_161
+  - first:
+      213: -4907081598228508921
+    second: mono1_162
+  - first:
+      213: -909942857816311600
+    second: mono1_163
+  - first:
+      213: -6400368707690264276
+    second: mono1_164
+  - first:
+      213: -8323719572469279037
+    second: mono1_165
+  - first:
+      213: 4874083032774351528
+    second: mono1_166
+  - first:
+      213: 5908445810443994630
+    second: mono1_167
+  - first:
+      213: -1359410250571320684
+    second: mono1_168
+  - first:
+      213: 2132433040619300469
+    second: mono1_169
+  - first:
+      213: 4439983734743070098
+    second: mono1_170
+  - first:
+      213: 7454514421924556892
+    second: mono1_171
+  - first:
+      213: -8546764629462322570
+    second: mono1_172
+  - first:
+      213: 41812622279933561
+    second: mono1_173
+  - first:
+      213: -2875354945649034075
+    second: mono1_174
+  - first:
+      213: -3254688408835958192
+    second: mono1_175
+  - first:
+      213: -4660066600008618554
+    second: mono1_176
+  - first:
+      213: -7392203728965555459
+    second: mono1_177
+  - first:
+      213: -7778662701119464441
+    second: mono1_178
+  - first:
+      213: 3062425527347109919
+    second: mono1_179
+  - first:
+      213: 5964937178423110187
+    second: mono1_180
+  - first:
+      213: 2308278987604765796
+    second: mono1_181
+  - first:
+      213: -4547199716897914808
+    second: mono1_182
+  - first:
+      213: -481347796685716259
+    second: mono1_183
+  - first:
+      213: -7051733833909905909
+    second: mono1_184
+  - first:
+      213: -4093382788928024345
+    second: mono1_185
+  - first:
+      213: 1622626450619175641
+    second: mono1_186
+  - first:
+      213: -5578721156743495327
+    second: mono1_187
+  - first:
+      213: -3843061457858532718
+    second: mono1_188
+  - first:
+      213: -8273491579687090218
+    second: mono1_189
+  - first:
+      213: 7985531057074998839
+    second: mono1_190
+  - first:
+      213: -6565807488445604465
+    second: mono1_191
+  - first:
+      213: 2323879213986441200
+    second: mono1_192
+  - first:
+      213: 7594577508849236935
+    second: mono1_193
+  - first:
+      213: -8508806473043539944
+    second: mono1_194
+  - first:
+      213: 3329961381475651733
+    second: mono1_195
+  - first:
+      213: -5252119089153421018
+    second: mono1_196
+  - first:
+      213: -288159443644588334
+    second: mono1_197
+  - first:
+      213: 110718120240878426
+    second: mono1_198
+  - first:
+      213: 3518558499252347678
+    second: mono1_199
+  - first:
+      213: -5642815789614789622
+    second: mono1_200
+  - first:
+      213: 6246201714352417405
+    second: mono1_201
+  - first:
+      213: -5291741208283548456
+    second: mono1_202
+  - first:
+      213: -3697254723756090753
+    second: mono1_203
+  - first:
+      213: 6892244561192149308
+    second: mono1_204
+  - first:
+      213: -2290255409605842635
+    second: mono1_205
+  - first:
+      213: -5788905370596702025
+    second: mono1_206
+  - first:
+      213: 6665374372322705863
+    second: mono1_207
+  - first:
+      213: 540464204118122022
+    second: mono1_208
+  - first:
+      213: -3424837908650297094
+    second: mono1_209
+  - first:
+      213: 1553297636402209587
+    second: mono1_210
+  - first:
+      213: 2842266495426392709
+    second: mono1_211
+  - first:
+      213: -8583530594494763090
+    second: mono1_212
+  - first:
+      213: -6469417531043041894
+    second: mono1_213
+  - first:
+      213: -6296815068587870598
+    second: mono1_214
+  - first:
+      213: -3804966504181834834
+    second: mono1_215
+  - first:
+      213: -231901772231452838
+    second: mono1_216
+  - first:
+      213: 3447300841548387806
+    second: mono1_217
+  - first:
+      213: -3826344667517106156
+    second: mono1_218
+  - first:
+      213: 904642660817485273
+    second: mono1_219
+  - first:
+      213: -4515073710378605344
+    second: mono1_220
+  - first:
+      213: 8184834555212896791
+    second: mono1_221
+  - first:
+      213: -4435104755769060949
+    second: mono1_222
+  - first:
+      213: 7250090581020544098
+    second: mono1_223
+  - first:
+      213: -9020346494427320264
+    second: mono1_224
+  - first:
+      213: 6009907652867865791
+    second: mono1_225
+  - first:
+      213: -7525569137503175425
+    second: mono1_226
+  - first:
+      213: 2515267729877507350
+    second: mono1_227
+  - first:
+      213: -2100152547289917135
+    second: mono1_228
+  - first:
+      213: -7406991442097882512
+    second: mono1_229
+  - first:
+      213: -6230197464563432000
+    second: mono1_230
+  - first:
+      213: 2544900944168205219
+    second: mono1_231
+  - first:
+      213: 2374943801615267827
+    second: mono1_232
+  - first:
+      213: -5669171041564695843
+    second: mono1_233
+  - first:
+      213: -8135709667775830376
+    second: mono1_234
+  - first:
+      213: -6101642303649561429
+    second: mono1_235
+  - first:
+      213: -6659532099658798757
+    second: mono1_236
+  - first:
+      213: 2455320882942666931
+    second: mono1_237
+  - first:
+      213: -5302087766868794585
+    second: mono1_238
+  - first:
+      213: -7992442083416627241
+    second: mono1_239
+  - first:
+      213: -1615113371633251667
+    second: mono1_240
+  - first:
+      213: -2738943727810066334
+    second: mono1_241
+  - first:
+      213: -6885583840198166241
+    second: mono1_242
+  - first:
+      213: 2655762768184285946
+    second: mono1_243
+  - first:
+      213: -1572686091978885872
+    second: mono1_244
+  - first:
+      213: 5212750210366779408
+    second: mono1_245
+  - first:
+      213: -3213932508964500058
+    second: mono1_246
+  - first:
+      213: 1113712562344205429
+    second: mono1_247
+  - first:
+      213: -163974483211002397
+    second: mono1_248
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mono1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55218f3b4c950ac70800000000000000
+      internalID: 8980276358344610389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d601dbd36fff740800000000000000
+      internalID: 5188136040779509059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa34c58350efdd0800000000000000
+      internalID: -2450515407618725228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c9729c36045c0a0800000000000000
+      internalID: -6862007659908326272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddca78a6fa2d0590800000000000000
+      internalID: -7706456148484108837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69716ee423208b6f0800000000000000
+      internalID: -668782129569196138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10499cfabd3bea5b0800000000000000
+      internalID: -5355145150768507903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74a78564caf5d60800000000000000
+      internalID: 7881207291053754335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc3ca581f712070800000000000000
+      internalID: 8079878949058105273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065af5f36ee6feca0800000000000000
+      internalID: -5985443444567333536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f4460961c43db0800000000000000
+      internalID: -4813009444931308799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9624d6f263f1434a0800000000000000
+      internalID: -6614627635116031383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e2e25ca746fae0800000000000000
+      internalID: -1515945419113043899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e2332b0329884a0800000000000000
+      internalID: -6590857316810936703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3a44fca74153f0800000000000000
+      internalID: -913870441221047199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246d3277d4b2c8b0800000000000000
+      internalID: -5133341787821349845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17bbc15d176b5360800000000000000
+      internalID: 7159429408259553055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312608920fb795ad0800000000000000
+      internalID: -2713001029095366125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420bc35149ce22ab0800000000000000
+      internalID: -5034201312691179484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02851fe01edb16890800000000000000
+      internalID: -7466477932887582688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51702c6375d648150800000000000000
+      internalID: 5873940035346237205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adde51fe5f783f20800000000000000
+      internalID: 3402609564231589282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6b663d41faaa460800000000000000
+      internalID: 7253802653814535888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c53db910a6b1880800000000000000
+      internalID: -8639194905038332846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c5264719bac760800000000000000
+      internalID: 7478993640814397947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb7c1e4110014d0800000000000000
+      internalID: -3166029348842520652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656fe2a2fda885890800000000000000
+      internalID: -7469067290903906730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a5eec77eab581f0800000000000000
+      internalID: -1043222235270194619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1c1ede77c84ed0800000000000000
+      internalID: -2429472651260192110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4029357136cb50800000000000000
+      internalID: 6613027482379504329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54588936c3bdc8970800000000000000
+      internalID: 8758616427744232773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640861d31c3b34c0800000000000000
+      internalID: -4306782562834447262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fab8d6c978ee130800000000000000
+      internalID: 3597962258238123804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6862446130d4a0800000000000000
+      internalID: -6570697549652923384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2b72060951a4990800000000000000
+      internalID: -7401079327797300571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575ca347e92ad080800000000000000
+      internalID: -9161964418682300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e7599bf6559a60800000000000000
+      internalID: 7680140378159703738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec93ed4a8e9873a0800000000000000
+      internalID: -6667404931472581407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8629bed43e20c0800000000000000
+      internalID: -4598680038305001806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6db1cbead873de0800000000000000
+      internalID: -1353457381381777691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051bf8db26c519e90800000000000000
+      internalID: -7020728764937031344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002c22b9b2ec28d10800000000000000
+      internalID: 2126488660753957376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abb9f4217f4b1b0800000000000000
+      internalID: -5641612775171311097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9264837f54501d6b0800000000000000
+      internalID: -5273427890615597527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473459d68afd7a3b0800000000000000
+      internalID: -5501182505323773068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b8e76cb58d1d770800000000000000
+      internalID: 8633919849329756949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f57ee008e8636b0800000000000000
+      internalID: -5316905629407289551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb467a11d47e77c0800000000000000
+      internalID: -4071688571655402559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208ef89d1d167940800000000000000
+      internalID: 5293450424978669610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1efa13f1da5c660800000000000000
+      internalID: 7405515511769850363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c914f1c61fd18120800000000000000
+      internalID: 2414456164083571136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e71541277b38940800000000000000
+      internalID: 5297279287312875096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7295a58bfb5ac10800000000000000
+      internalID: 2064266802729920501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc03b021fb67780800000000000000
+      internalID: -8685544747119358669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998b81482977dcc0800000000000000
+      internalID: -3686344556174145132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb939ef317739f30800000000000000
+      internalID: 4581136173725096948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd715fa617d4600800000000000000
+      internalID: 454143841626741789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f201fb683dc4c630800000000000000
+      internalID: 3946504815696216824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38212770d6c25b60800000000000000
+      internalID: 7733462108802721851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2bd6a0847e27d0800000000000000
+      internalID: -2941285410722337653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393c270c8d4a1c8f0800000000000000
+      internalID: -521954830949629037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d62fd0e03daf3060800000000000000
+      internalID: 6935452376616609490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0467616513ca01290800000000000000
+      internalID: -7921642416647014848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561c5c2b0ddf5b80800000000000000
+      internalID: -8403755339591444908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba292724e705dfe0800000000000000
+      internalID: -1165016252114457922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c18d5b1f9f70ec0800000000000000
+      internalID: -3600634560526148488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466cd44db5fa298b0800000000000000
+      internalID: -5146858615192304028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f327eed485cd8780800000000000000
+      internalID: -8679063732407032842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1993995af03e00800000000000000
+      internalID: 1022592378048421107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cb3f5aafb794120800000000000000
+      internalID: 2398584593007754259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d82eb6c41455c70800000000000000
+      internalID: 8959138830206799205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98072873adfc32660800000000000000
+      internalID: 7359954752194637961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07d4796313eba70800000000000000
+      internalID: 8844560828738662586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfec00345df3420800000000000000
+      internalID: 2612040792651266901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe593644aed2f0070800000000000000
+      internalID: 8074723141091562991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f593b8ce05f40e3b0800000000000000
+      internalID: -5485297137152738977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd776da377367c980800000000000000
+      internalID: -8518730806408611876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dcc70a1eb7fc5e0800000000000000
+      internalID: -1887153509854556898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaeb6be3446ec690800000000000000
+      internalID: -7580010879942661399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052803e84b7fb8340800000000000000
+      internalID: 4867256177155670608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f70aef9cacb3350800000000000000
+      internalID: 5997610297683115883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d4b422ce2a5050800000000000000
+      internalID: 5789991682312558273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c401dde9d6ae86960800000000000000
+      internalID: 7595578528097964108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683458fade9c5aae0800000000000000
+      internalID: -1538601674987977850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff8aeecb0798d90800000000000000
+      internalID: -7095015781185290438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaef6d683c5012d0800000000000000
+      internalID: -3310044328693339441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df1292d50c8be10800000000000000
+      internalID: 2213730723207183622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_87
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2c40470b7d48fd0800000000000000
+      internalID: -2340508753465130315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e978a8b53745c0800000000000000
+      internalID: -4231354257674475836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_89
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4ee20a66fbf5c0800000000000000
+      internalID: -4180476893907236149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7504fbe8f92430800000000000000
+      internalID: 3758809056312392889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d890b2ab593530800000000000000
+      internalID: 3835197311988323803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf169b6a40241ce0800000000000000
+      internalID: -1435486877219676211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eca1e73c52e7150800000000000000
+      internalID: 5872172485702241946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b20cfb3765ddad0800000000000000
+      internalID: -2675887548449936491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55acbe5029e7c2940800000000000000
+      internalID: 5272728429373672021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed164f5a5f363280800000000000000
+      internalID: -9063987542658507287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4968448d6c9d85f50800000000000000
+      internalID: 6870480679608813204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92061a00e098fd500800000000000000
+      internalID: 423207583229239337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad728df2b63cd68e0800000000000000
+      internalID: -1698486619317196838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0350d67de7e7a90800000000000000
+      internalID: -7314269281090981666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe40ac4b2ec2d50800000000000000
+      internalID: 6713990410613878604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ac657b549b0460800000000000000
+      internalID: 7209018749069599174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae6eee993a74a500800000000000000
+      internalID: 406584254268337824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e88d460fe650db0800000000000000
+      internalID: -4826329446894498213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d1b0df236a2df0800000000000000
+      internalID: -204241776076007523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c339601ae2d9080800000000000000
+      internalID: -9179129196376277885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722984bef2bdd2c80800000000000000
+      internalID: -8345773535590313433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2470e57329a0b350800000000000000
+      internalID: 6030505870815687727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mono1_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae347c323504f40800000000000000
+      internalID: 5710655740637866608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
